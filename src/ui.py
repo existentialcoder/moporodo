@@ -1,6 +1,5 @@
 import tkinter as tk
 
-
 class UI:
 	"""Class containinng all UI related methods"""
 
