@@ -1,0 +1,21 @@
+{
+    "POMODORO_UNIT": 25,
+    "ONE_MINUTE": 60000,
+    "title": "MOPODORO",
+    "description": "Manage your time better than ever",
+    "COLOR_SCHEMAS": [
+        ["29AE60", "6FCF97"],
+        ["03002E", "090088"],
+        ["4424D6", "8C78E8"],
+        ["8C78E8", "E5E0FA"],
+        ["FEFE9A", "FFFFDB"],
+        ["347B98", "67AFCB"],
+        ["67AFCB", "E4F1F6"],
+        ["FC7307", "FFEBDC"],
+        ["7FBD32", "7FBD32"],
+        ["F033B4", "FDDEF3"],
+        ["340926", "510639"],
+        ["0247FE", "678FFE"],
+        ["678FFE", "DBE5FF"]
+    ]
+}
