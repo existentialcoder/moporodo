@@ -55,6 +55,6 @@ class Pomodoro:
         Database.execute(create_table_command)
 
 #Usage:
-Database.connect()
-User.initialize()
-Pomodoro.initialize()
+#Database.connect()
+#User.initialize()
+#Pomodoro.initialize()
